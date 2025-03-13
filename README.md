@@ -2,7 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18671090&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
-It is important to know your audience expertise so as to tailor your content to meet them at their point of understanding. With aan audience who are tech experts, not much of explanation is needed because they have a context of what you are taling about. For regular folks its essencial to explain things in the most simplest of ways so that the pont is taken across and you are guaranteed that they understood.
+It is important to know your audience expertise so as to tailor your content to meet them at their point of understanding. With an audience who are tech experts, not much of explanation is needed because they have a context of what you are taling about. For regular folks its essencial to explain things in the most simplest of ways so that the pont is taken across and you are guaranteed that they understood.
 
 ## 2. What are some strategies to tailor your content to different audience types?
 Understanding your audience age, gender, cultureand interests may come in handy while tailoring content for them, for females contant revolving around make up and lifestyle is ok, for males, cars. 
